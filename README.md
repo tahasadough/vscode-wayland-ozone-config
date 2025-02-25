@@ -1,0 +1,1 @@
+# vscode-wayland-ozone-config
